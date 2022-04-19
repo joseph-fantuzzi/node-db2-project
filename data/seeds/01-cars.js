@@ -2,7 +2,7 @@
 
 const initialCars = [
   {
-    vin: "12345",
+    vin: "2HHES35603H002875",
     make: "Honda",
     model: "Civic",
     mileage: 65600,
@@ -10,7 +10,7 @@ const initialCars = [
     transmission: "automatic",
   },
   {
-    vin: "67891",
+    vin: "WUAZZZ8E98N901774",
     make: "Audi",
     model: "R8",
     mileage: 1000,
@@ -18,7 +18,7 @@ const initialCars = [
     transmission: "manual",
   },
   {
-    vin: "25432",
+    vin: "5YJSA2DP8DFP22249",
     make: "Tesla",
     model: "Model S Plaid",
     mileage: 5000,
